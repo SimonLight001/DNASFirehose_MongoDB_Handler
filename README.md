@@ -1,6 +1,6 @@
 # DNASFirehose_MongoDB_Handler
 
-This file is designed to create a simple interface between DNA SPaces Firehose stream, and MongoDB Atlas.
+This file is designed to create a simple interface between DNA Spaces Firehose stream, and MongoDB Atlas.
 
 For those of you who are using a .io domain, please make sure you manually change domains.
 This will be something I will add in the future, that domain will be held as a single variable.
