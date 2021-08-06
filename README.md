@@ -13,3 +13,7 @@ This will give you a URL you need to call to.
 Paste this in as CONNECTION_STRING
 
 If you have any questions or need help using the script please reach out!
+
+![image](https://user-images.githubusercontent.com/14348411/128566457-8de0e8c7-dc33-4931-929b-553d124cd27b.png)
+
+![image](https://user-images.githubusercontent.com/14348411/128566477-3a23252f-96b4-46f2-8535-554a6d32d946.png)
