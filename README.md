@@ -57,6 +57,8 @@ From this point, data should start flowing in:
 ![image](https://user-images.githubusercontent.com/14348411/129179020-0a4493fa-788a-4e27-92c3-c7f079ba4041.png)
 For debugging purposes, uncomment some of the prints in the bottom of the index.py to see what data is being sent.
 ![image](https://user-images.githubusercontent.com/14348411/129179090-6c6ec875-8d5e-4027-93de-370581443dc9.png)
+E.G. ![image](https://user-images.githubusercontent.com/14348411/129179557-faa534eb-53f2-4c06-8997-cd9b4fb37b59.png)
 
+If you have made it this far; well done, and if you have any issues or questions, please leave a comment or question or raise an issue in github.
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/SimonLight001/DNASFirehose_MongoDB_Handler)
