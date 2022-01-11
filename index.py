@@ -35,7 +35,7 @@ def get_API_Key_and_auth():
     token = input('Enter token here: ')
 
     # Decodes JSON Web Token to get JSON out
-    decodedJWT = jwt.decode(token, pubKey)
+    decodedJWT = jwt.decode(token, pubKey, algorithms=["RS256"], options={"verify_signature": False})
     decodedJWT = json.dumps(decodedJWT, indent=2)
 
     # picks up required values out of JWT
